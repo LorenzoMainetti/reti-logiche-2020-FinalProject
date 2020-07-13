@@ -1,21 +1,8 @@
 -----------------------------------------------------------------------------------
--- Company: 
 -- Author: Lorenzo Mainetti
 -- 
 -- Create Date: 16.02.2020 10:57:05
--- Design Name: 
 -- Module Name: project_reti_logiche - 
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
 ----------------------------------------------------------------------------------
 
 
